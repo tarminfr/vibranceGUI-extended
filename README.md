@@ -1,4 +1,4 @@
-# vibranceGUI
+# vibranceGUI-extended
 
 VibranceGUI is a Windows Utility written in C# that automates NVIDIAs Digitial Vibrance Control and AMDs Saturation for Games, e.g. Counter-Strike: Global Offensive by utilizing native graphic card driver APIs. 
 
